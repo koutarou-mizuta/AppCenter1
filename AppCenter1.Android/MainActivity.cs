@@ -30,4 +30,7 @@ namespace AppCenter1.Droid
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
         }
     }
+
+    // AppCenter Secret
+    // beb6bef2-7da4-48eb-8511-b4dae69ef890
 }

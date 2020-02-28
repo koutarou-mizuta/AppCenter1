@@ -17,4 +17,7 @@ namespace AppCenter1.iOS
             UIApplication.Main(args, null, "AppDelegate");
         }
     }
+
+    // AppCenter Seacret
+    // 28c8ef2f-0d99-4e9c-9fd8-f4aa0ecd00e9
 }
